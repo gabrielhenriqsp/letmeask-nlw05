@@ -22,3 +22,6 @@ Funções administrativas como:
 # Visão de Usuário
 ![image](https://user-images.githubusercontent.com/46637713/123497360-74ef0700-d603-11eb-901a-4a50de5cf6ef.png)
 
+
+# Contato do desenvolvedor: https://www.linkedin.com/in/gabriel-henrique-souza
+![image](https://user-images.githubusercontent.com/46637713/123497397-a667d280-d603-11eb-86bb-8d20b2253436.png)
